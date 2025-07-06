@@ -142,7 +142,7 @@ jupyter notebook Training_and_Attacking.ipynb
 This project is part of my **summer research exploration** implementing cutting-edge papers in PyTorch. 
 
 ### **🔗 Other Implementations**
-- **[Actor-Critic Algorithm from Scratch](link-to-repo)** - Reinforcement Learning implementation
+- **[Actor-Critic Algorithm from Scratch](https://github.com/Achintya47/Reinforcement-Learning/tree/main/Actor_Critic_Policy_from_scratch)** - Reinforcement Learning implementation
 - *More projects coming soon...*
 
 ---
