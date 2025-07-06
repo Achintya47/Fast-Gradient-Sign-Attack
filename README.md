@@ -168,7 +168,7 @@ This project is part of my **summer research exploration** implementing cutting-
 
 <div align="center">
 
-### *"In adversarial examples, we see the gap between human and machine perception"*
+### *"In adversarial examples, we see the gap between human and machine perception "*
 
 **⭐ Star this repo if you found it insightful!**
 
