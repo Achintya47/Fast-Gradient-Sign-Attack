@@ -176,4 +176,3 @@ This project is part of my **summer research exploration** implementing cutting-
 
 ---
 
-<sub>**License**: MIT | **Last Updated**: July 2025</sub>
