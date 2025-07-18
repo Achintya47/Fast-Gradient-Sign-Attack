@@ -76,8 +76,20 @@ Where:
 🔗 [**Explaining and Harnessing Adversarial Examples**](https://arxiv.org/abs/1412.6572) - Goodfellow et al., 2014
 
 ---
+## 📷 **Perturbed Images at Increasing Epsilon**
+
+Even minimal perturbations can significantly alter model predictions while remaining nearly imperceptible to the human eye.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Achintya47/Achintya47/main/perturbed_images.png" alt="Adversarial Examples at Varying Epsilon" width="80%"/>
+
+</div>
+
+> 🧠 This visualization clearly illustrates how increasing epsilon (ε) gradually distorts the image, confusing the model.
 
 ## 🔥 **Shocking Results**
+
 
 The model's performance **dramatically degrades** as epsilon increases:
 
